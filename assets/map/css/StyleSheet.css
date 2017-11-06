@@ -1,0 +1,65 @@
+﻿body{
+	min-height:400px;
+	
+}
+.myimg{
+	   height:140px;
+	   width:180px;
+	   
+   }
+.maxlen{
+	overflow: hidden; 
+	
+}
+
+.box1{
+    height:100px;
+    width:100px;
+     color:green;
+}
+.box2{
+    height:100px;
+    width:100px;
+     color:yellow;
+}
+.box3{
+    height:100px;
+    width:100px;
+     color:pink;
+}
+.box4{
+    height:100px;
+    width:100px;
+     color:aqua;
+}
+.box5{
+    height:100px;
+    width:100px;
+     color:red;
+}
+input {
+    margin-bottom: 5px;
+}
+/*#map-canvas {
+    height: 400px;
+    width:550px;
+}*/
+   html, body, #map-canvas {
+            min-height: 400px;
+            margin: 0px;
+            padding: 0px;
+        }
+
+        #markers_info .well {
+            height: auto;
+            cursor: pointer;
+            width:250px;
+            background-color:pink;
+        }
+        #markers_info .well:hover {
+           
+            background-color:orange;
+        }
+           normalIcon:hover{
+                color: red;
+            }

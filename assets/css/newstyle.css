@@ -1,0 +1,30 @@
+.hero {
+  text-align: center;
+  background-repeat: no-repeat;
+   background-position: initial;
+  background-image:url(../../assets/imgs/SiteImage.jpg);
+  font-weight: bolder;
+  background-size: 100%;
+}
+
+.hero .jumbotron {
+  padding: 5%;
+  background: rgba(2, 1, 1, 0.52);
+  color: #fff;
+  min-height: 650px;
+}
+.default_text {
+	font-family: 'Roboto', sans-serif;
+	font-size: 28px;
+	font-weight: 700;
+	color: #ffbe00 !important;
+	margin: 0px;
+	text-transform: uppercase;
+}
+.purple_text {
+  color: #4611a7 !important;
+}
+#new-padding {
+  border: 1px solid !important;
+    padding: 4px !important;
+}
